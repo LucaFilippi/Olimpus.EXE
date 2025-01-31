@@ -13,6 +13,7 @@ config_version=5
 config/name="Olympus.EXE"
 config/description="Jogo feito para a Sweet Jam no itch io"
 config/version="beta"
+run/main_scene="res://scenes/player.tscn"
 config/features=PackedStringArray("4.3", "Mobile")
 
 [input]
